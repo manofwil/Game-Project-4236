@@ -1,6 +1,6 @@
 # Excluded folders
-/.vs/
-/Temp
+.vs/
+Temp
 
 AssetBundles/
 [Bb]in/
